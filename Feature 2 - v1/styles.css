@@ -1,0 +1,67 @@
+/* Flex bar, row wrap, space-evenly */ 
+.navigation {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-evenly;
+	list-style: none;
+	margin: 0;
+	background: grey;
+}
+
+.navigation a {
+	text-decoration: none;
+	display: block;
+	padding: 1em;
+	color: white;
+}
+/* He doesn't like the hover because of mobile, but I thought it was nice to add in here */ 
+.navigation a:hover {
+	background: black;
+}
+
+/* Changing the nav bar with on smaller screens, minimized, etc. */ 
+@media all and (max-width: 800px) {
+	.navigation {
+		flex-flow: column wrap;
+		padding: 0;
+	}
+}
+
+@media all and (max-width: 600px) {
+	.navigation {
+		flex-flow: column wrap;
+		padding: 0;
+
+	}
+}
+/* The Karla font that's used during light mode */ 
+* {
+	font-family: 'Karla', sans-serif;
+}
+/* The switch between light and dark mode */ 
+.switch {
+    align-self: flex-end;
+    float: right;
+    margin: 0.9375rem;
+}
+.inner-switch {
+    display: inline-block;
+    float: right;
+    justify-content: right;
+    cursor: pointer;
+    border: 1px solid #555;
+    border-radius: 1.25rem;
+    width: 3.125rem;
+    text-align: center;
+    font-size: 1rem;
+    padding: 0.1875rem;
+    margin-left: 0.3125rem;
+}
+/* Dark mode settings, background, font, etc. */
+.dark,
+.dark * {
+    background-color: #222;
+    color: #e6e6e6;
+    border-color: #e6e6e6;
+    font-family: 'IBM Plex Mono', monospace;
+}

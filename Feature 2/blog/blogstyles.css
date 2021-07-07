@@ -1,0 +1,11 @@
+.title {
+	font-family: serif;
+	text-align: center;
+	font-size: xx-large;
+}
+
+p {
+	font-family: serif;
+	text-align: center;
+	word-wrap: normal;
+}
