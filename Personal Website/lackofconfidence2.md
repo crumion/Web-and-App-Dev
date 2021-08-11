@@ -1,0 +1,27 @@
+# A BRIEF LACK OF CONFIDENCE, PT. 2
+
+*“You wrote this?” “Yeah, I did.”*
+
+*“Seriously, like for real? You actually published a book?”*
+
+*“Yes, it’s actually not that big of a deal. Just kind of something, I guess.”*
+
+*“Dude, you wrote a fucking book, that’s the real deal! You’re an author!”*
+
+*“No man it’s just something – “*
+
+*“How – did you do this, like what happened? Did you just wake up and say, ‘I’m gonna write a book?”*
+
+*“I just woke up and figured I would write about something that’s been bothering me for a while. Thomas died since my first book, you know? I still don’t know how to write well. I know why you read, you’re looking for something in your lost life to feel liberation. I’ll let you in on something, you’ll never find it here. I’ll let you down. Don’t expect some bullshit love story, or even redemption, for that matter. You people bore the absolute bloody hell out of me, and I figured I’d write a messed up novel about the special boy who hung himself after killing Pastor Davis’s children because he thought they hurt his dad, who he never even touched, nor knew. I made his mother a whore, an alcoholic hero, because I’m tired of being told what to do, anymore.”*
+
+*“Yeah that’s cool and all, but like what’s the book about? Like all that shit?”*
+
+*“I just have some people that have really pissed me off. You know how some people get in your way when you’re walking down the street or a slow driver is in front of you? Yeah, well this book is me running over a few of those people. Like there’s one guy that inspired all the intensely sexual parts in the book. He wore an infectious odor that smelled like mustard gas and vaginal blood. He was indeed a disgusting man. I’m not going to get into why on God’s name he was even in here, or in what parts. That might even be a gross book in of itself, but I’ll save the story. I might write more on him later. Let’s just say women wouldn’t want to read it. Men wouldn’t want to read it, either. Nobody would even want to read it, and that’s why it doesn’t belong in literature. I’m quite annoyed at times when authors write about very controversial or angsty things just to sell more copies – they are sell out pussies. Real writers write about their experiences or place you in a different reality that challenges your existing beliefs or angles on life. Books should be challenging, and they should test your limits at life. Nothing really matters, anyway. But authors who disgrace the names of mentally retarded people, teachers, police officers, sheriffs, whores, judges, diplomats, and the sins of people shouldn’t be writers. These types of people struggle, and their struggles shouldn’t be books.”*
+
+*“Okay, but what’s the book about? Like damnit, you wrote something right?”*
+
+*“Well I told my girl and my family that my next book would be a lot different. It wouldn’t be another Wingless. It would be somewhat about those murders in town. I told my teacher how I wanted to explore murder, law, God, and the death penalty. I like to write about unreliable narrators, and I knew this book would be no different. The issue is I don’t have a clear understanding of a direction of a theme. That’s why I can’t answer you.  I mean, I have a lot of writings, some are pretty good, too. I wondered what it would be like to talk to Death. I don’t believe in him either, it’s just kinda of fun to think about. I think the reason I struggle is I’m not scared of dying, nor do I care. It’ll happen, and that will be it.”*
+
+*“Did you ever have any help with the book? Like an editor or something?”*
+
+*“Well I tried getting some help here actually. I recently went to a writing clinic where I was to learn how to write well, like for all types of writing. I gave her some of my short stories, and then the Asian that was the tutor told me that nobody was going to understand what I wrote. “You always have to keep the reader in mind,” she said. “And with what you have, I mean, your sentences are way too long. Plus they contain multiple subjects, and there’s just no way readers will be able to follow your thoughts.” She also said my diction is novice, the dialogue sounds robotic, and plot is nonexistent. I asked her if she liked a few of my favorite authors and she said, “Ew, no. I don’t like any of them.” She was of course an English major. After that last comment, I kindly removed myself from the room. It was at this moment that I knew I was meant to be a writer. My favorite authors weren’t meant to be understood the first time either.”*
